@@ -1,0 +1,7 @@
+echo "# LFRN_Firma-Legalwebsite" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Serr27/LFRN_Firma-Legalwebsite.git
+git push -u origin main
